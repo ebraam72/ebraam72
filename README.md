@@ -1,71 +1,56 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2F81F7&center=true&vCenter=true&width=700&height=70&duration=3500&lines=Hi%2C+I'm+Ebraam+Gerges+%F0%9F%91%8B;Data+Analyst+%7C+Operations+Specialist;Turning+Data+into+Insights+%F0%9F%93%8A" />
-</h1>
-
-<h3 align="center">
-  Data Analyst passionate about data, visualization, and business insights.
-</h3>
-
-<br/>
-
 <div align="center">
 
-<a href="mailto:ebraamgyoussef@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<h1>Hey! I'm Ebraam 👋</h1>
 
-<a href="https://wa.me/201068924775" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+<h3>Data Analyst | Operations | Excel | SQL | Power BI | Python | Tableau</h3>
 
-<a href="https://www.linkedin.com/in/ebraam-gerges" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p>
+I’m an Information Systems graduate passionate about turning data into
+clear insights, meaningful visualizations, and better decisions.
+</p>
 
 </div>
 
-<br/>
+<br>
 
----
-
-## 👨‍💻 About Me
-
-I'm a **Data Analyst** with a background in **Information Systems**.
-
-I work with **Power BI, SQL, Excel, Python, and Tableau** to clean, analyze, and visualize data and turn it into actionable insights.
-
-I'm also interested in **operations, reporting, and data-driven decision making**.
-
----
-
-## 🛠️ Tech Stack
+<h2>🧩 What I Work With</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Excel-111827?style=flat-square&logo=microsoftexcel&logoColor=21A366" />
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Tableau-111827?style=flat-square&logo=tableau&logoColor=E97627" />
 
 </div>
 
-<br/>
+<br>
 
-<h3 align="center">📫 Let's Connect</h3>
+<h2>📊 A Little About Me</h2>
 
-<div align="center">
+<p>
+I enjoy working with data from cleaning and analysis to visualization and reporting.
+My main focus is <b>Data Analytics and Business Intelligence</b>, with an interest in
+using data to solve problems and support business decisions.
+</p>
+
+<br>
+
+<h2>📫 Let's Connect</h2>
+
+<div align="left">
 
 <a href="mailto:ebraamgyoussef@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ebraamgyoussef%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-ebraamgyoussef-374151?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" />
 </a>
 
 <a href="https://wa.me/201068924775" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B20%20106%20892%204775-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-%2B20%20106%20892%204775-374151?style=flat-square&logo=whatsapp&logoColor=white&labelColor=25D366" />
 </a>
 
 <a href="https://www.linkedin.com/in/ebraam-gerges" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Ebraam%20Gerges-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Ebraam%20Gerges-374151?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" />
 </a>
 
 </div>
