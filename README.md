@@ -22,39 +22,52 @@
 
 ## 👋 Hey, I'm Ebraam
 
-I'm an **Information Systems graduate** focused on **Data Analytics and Business Intelligence**.
+**Data Analyst** with a focus on turning data into clear, useful insights.
 
-I enjoy taking raw data, cleaning and exploring it, building dashboards, and turning numbers into insights that can actually support business decisions.
-
-I also have hands-on experience in **daily operations and customer service**, which helps me understand the business side behind the data.
+I work across **data analysis, visualization, dashboards, and reporting**, using data to understand what’s happening, spot patterns, and support smarter decisions.
 
 ---
 
-## 🛠️ My Toolkit
+## 🛠️ Toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-
-<br><br>
+### 📊 Analytics & BI
 
 <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
 <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=E97627" />
 <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=21A366" />
+
+<br><br>
+
+### 💻 Data & Programming
+
 <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243" />
+
+<br><br>
+
+### 🔎 Data Skills
+
+<img src="https://img.shields.io/badge/Data%20Cleaning-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EDA-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Visualization-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reporting-111827?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 📊 What I Do
+## 📈 What I Do
 
 ```text
-Data Cleaning        →  Transform messy data into usable datasets
-Data Analysis        →  Find patterns, trends & useful insights
-Data Visualization   →  Build clear dashboards & reports
-Business Intelligence → Turn data into better decisions
-Operations           →  Understand processes & improve performance
+Clean       →  Transform & prepare data
+Analyze     →  Find patterns & trends
+Visualize   →  Build dashboards & reports
+Understand  →  Turn numbers into insights
+Improve     →  Support better business decisions
 ```
 
 ---
@@ -63,47 +76,17 @@ Operations           →  Understand processes & improve performance
 
 **Data Analytics • Power BI • SQL • Excel • Python • Tableau**
 
-I’m continuously building projects, improving my analytical skills, and exploring better ways to communicate data through visualization and storytelling.
-
----
-
-## 📂 Featured Work
-
-<div align="center">
-
-<a href="https://github.com/ebraam72/historical-gold-price-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ebraam72&repo=historical-gold-price-analysis&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/ebraam72/Customer-Behavior-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ebraam72&repo=Customer-Behavior-Analysis&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/ebraam72/Retail-Sales-Analysis-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ebraam72&repo=Retail-Sales-Analysis-Project&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/ebraam72/HR-Report-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ebraam72&repo=HR-Report-&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
+Always learning. Always building. Always looking for a better way to turn data into something useful.
 
 ---
 
 <div align="center">
 
-### 💡 *"Data is useful when it helps you make a better decision."*
+### 💡 *"Data becomes valuable when it leads to a better decision."*
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=ebraam72&style=flat-square&color=2563EB&label=Profile%20Views" />
-
-<br><br>
-
-<a href="https://github.com/ebraam72">
-<img src="https://img.shields.io/badge/GitHub-ebraam72-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
 
